@@ -38,10 +38,6 @@ def array_literal_matrix
     "Gerhard Schtitt",
     "Mario Incandenza",
     "Michael Pemulis"]
-]
-    
-  
-  
   ]
 end
 
