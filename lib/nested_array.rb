@@ -39,6 +39,9 @@ def array_literal_matrix
     "Mario Incandenza",
     "Michael Pemulis"]
   ]
+  house_academy[0].sort!
+  house_academy[1].sort!
+  house_academy
 end
 
 def matrix_lookup(matrix, row, column)
